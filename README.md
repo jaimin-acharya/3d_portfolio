@@ -1,7 +1,3 @@
-
----
-
-````markdown
 # 🌐 3D Portfolio
 
 Interactive 3D portfolio built with React, Three.js, and React Three Fiber. Showcase your skills, projects, and contact info in a visually immersive way.
