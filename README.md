@@ -1,4 +1,3 @@
-Here’s a polished, engaging **README** template tailored for your `3d_portfolio` project. It’s structured to highlight features, setup steps, and usage—feel free to customize details like live demo link, license, and contact info!
 
 ---
 
