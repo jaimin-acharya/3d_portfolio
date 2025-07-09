@@ -114,7 +114,3 @@ Questions or feedback? Reach me at:
 ---
 
 *Made with 💙 by **Jaimin Acharya***
-
-```
-
----
