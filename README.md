@@ -3,7 +3,7 @@
 Interactive 3D portfolio built with React, Three.js, and React Three Fiber. Showcase your skills, projects, and contact info in a visually immersive way.
 
 ## 🚀 Live Demo
-Try it live: *[]*
+Try it live: *[https://jaiminacharya.vercel.app/]*
 
 ---
 
