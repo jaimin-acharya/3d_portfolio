@@ -87,7 +87,7 @@ body {
 
   /* clients section */
   .client-container {
-    @apply grid md:grid-cols-2 grid-cols-1 gap-5 mt-12;
+    @apply grid md:grid-cols-1 grid-cols-1 gap-5 mt-12 cursor-pointer;
   }
 
   .client-review {
@@ -95,12 +95,12 @@ body {
   }
 
   .client-content {
-    @apply flex lg:flex-row flex-col justify-between lg:items-center items-start gap-5 mt-7;
+    @apply flex lg:flex-row flex-col justify-between lg:items-center items-start gap-5 mt-7 ;
   }
 
   /*  work experience section */
   .work-container {
-    @apply grid lg:grid-cols-3 grid-cols-1 gap-5 mt-12;
+    @apply grid lg:grid-cols-1 grid-cols-1 gap-5 mt-12;
   }
 
   .work-canvas {

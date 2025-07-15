@@ -24,35 +24,27 @@ export const navLinks = [
 export const clientReviews = [
   {
     id: 1,
-    name: 'Emily Johnson',
-    position: 'Marketing Director at GreenLeaf',
-    img: 'assets/review1.png',
+    name: 'Vatsal Acharya',
+    position: 'Architect at Vatsal Acharya Architects',
+    img: 'assets/review1.jpg',
     review:
-      'Working with Jaimin was a fantastic experience. He transformed our outdated website into a modern, user-friendly platform. His attention to detail and commitment to quality are unmatched. Highly recommend him for any web dev projects.',
+      'Working with Jaimin was a fantastic experience. He transformed our outdated website into a modern, user-friendly platform. His attention to detail and commitment to quality are unmatched. Highly recommend him for any web development projects.',
   },
   {
     id: 2,
-    name: 'Mark Rogers',
-    position: 'Founder of TechGear Shop',
-    img: 'assets/review2.png',
+    name: 'Ravi Acharya',
+    position: 'Civil Engineer at Dhuvanshi Constuction',
+    img: 'assets/review2.jpg',
     review:
-      'Jaimin’s expertise in web development is truly impressive. He delivered a robust and scalable solution for our e-commerce site, and our online sales have significantly increased since the launch. He’s a true professional! Fantastic work.',
+      'Jaimin’s expertise in web development is truly impressive. He delivered a robust and scalable solution for our constuction site, and our online reach have significantly increased since the launch. He’s a true professional! Fantastic work.',
   },
   {
     id: 3,
-    name: 'John Dohsas',
-    position: 'Project Manager at UrbanTech ',
-    img: 'assets/review3.png',
+    name: 'Raval Krutarth',
+    position: 'Web Developer',
+    img: 'assets/review3.svg',
     review:
       'I can’t say enough good things about Jaimin. He was able to take our complex project requirements and turn them into a seamless, functional website. His problem-solving abilities are outstanding.',
-  },
-  {
-    id: 4,
-    name: 'Ether Smith',
-    position: 'CEO of BrightStar Enterprises',
-    img: 'assets/review4.png',
-    review:
-      'Jaimin was a pleasure to work with. He understood our requirements perfectly and delivered a website that exceeded our expectations. His skills in both frontend backend dev are top-notch.',
   },
 ];
 
@@ -123,7 +115,7 @@ export const calculateSizes = (isSmall, isMobile, isTablet) => {
     deskPosition: isMobile ? [0.5, -4.5, 0] : [0.25, -5.5, 0],
     cubePosition: isSmall ? [4, -5, 0] : isMobile ? [5, -5, 0] : isTablet ? [5, -5, 0] : [9, -5.5, 0],
     reactLogoPosition: isSmall ? [3, 4, 0] : isMobile ? [5, 4, 0] : isTablet ? [5, 4, 0] : [12, 3, 0],
-    ringPosition: isSmall ? [-5, -7, 2] : isMobile ? [-10, -10, 2] : isTablet ? [-12, -10, 2] : [-20, 10, -2],
+    ringPosition: isSmall ? [-5, 6, 0] : isMobile ? [-10, -10, 0] : isTablet ? [-12, -10, 2] : [-20, 10, -2],
     targetPosition: isSmall ? [-5, -10, -10] : isMobile ? [-9, -10, -10] : isTablet ? [-11, -7, -10] : [-13, -13, -10],
   };
 };
