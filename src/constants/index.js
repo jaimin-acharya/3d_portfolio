@@ -36,7 +36,7 @@ export const clientReviews = [
     position: 'Civil Engineer at Dhuvanshi Constuction',
     img: 'assets/review2.jpg',
     review:
-      'Jaimin’s expertise in web development is truly impressive. He delivered a robust and scalable solution for our constuction site, and our online reach have significantly increased since the launch. He’s a true professional! Fantastic work.',
+      'Jaimin’s expertise in web development is truly Impressive. He delivered a robust and scalable solution for our constuction site, and our online reach have significantly increased since the launch. He’s a true professional! Fantastic work.',
   },
   {
     id: 3,
